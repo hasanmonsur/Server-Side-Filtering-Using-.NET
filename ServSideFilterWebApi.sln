@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServSideFilterWebApi", "ServSideFilterWebApi\ServSideFilterWebApi.csproj", "{D5D9CA00-64BB-430E-8D69-6C56F8A4017A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D9CA00-64BB-430E-8D69-6C56F8A4017A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D9CA00-64BB-430E-8D69-6C56F8A4017A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D9CA00-64BB-430E-8D69-6C56F8A4017A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D9CA00-64BB-430E-8D69-6C56F8A4017A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC62BBF7-584B-4C17-9E1C-4B479D32875C}
+	EndGlobalSection
+EndGlobal
